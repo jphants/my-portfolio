@@ -16,7 +16,7 @@ function figmaAssetResolver() {
 }
 
 export default defineConfig({
-  base: '/my_portfolio/',
+  base: '/my-portfolio/',
 
   plugins: [
     figmaAssetResolver(),
