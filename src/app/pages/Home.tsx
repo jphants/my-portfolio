@@ -26,7 +26,7 @@ export function Home() {
       <section className="max-w-4xl mx-auto px-6 pt-32 pb-20">
         <div className="space-y-6">
           <div className="space-y-2">
-            <div className="text-muted-foreground">Hi, I'm</div>
+            <div className="text-muted-foreground">Greetings, I'm</div>
             <h1 className="text-5xl md:text-6xl tracking-tight">Jorge Nuñez</h1>
             <div className="text-xl text-muted-foreground">Computer Science Student</div>
           </div>
