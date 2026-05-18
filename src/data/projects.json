@@ -1,0 +1,67 @@
+[
+  {
+    "id": "hampy-nanay",
+    "title": "Hampy Nanay - AI surgery recovery assistant",
+    "category": "Hackathon",
+    "description": "Tool to help patients recover from surgery by providing personalized care plans and reminders",
+    "longDescription": "Built during StartupMed, a healthcare-focused hackathon, Hampy Nanay is an AI-powered assistant designed to support patients recovering from surgery. The app generates personalized care plans based on the type of surgery, patient health data, and recovery goals. It provides daily reminders for medication, physical therapy exercises, and follow-up appointments. The project won the Best Healthcare Solution award and has been adopted by several local clinics for pilot testing.",
+    "tech": ["Next.js", "TypeScript", "OpenAI API", "Tailwind CSS", "PostgreSQL"],
+    "learned": [
+      "Integrated third-party AI APIs into a production application",
+      "Implemented complex scheduling algorithms for spaced repetition",
+      "Managed real-time state updates with optimistic UI patterns",
+      "Worked with a team under tight time constraints"
+    ],
+    "challenges": [
+      "Rate limiting and cost optimization for API calls",
+      "Designing an intuitive UX for complex scheduling logic",
+      "Handling edge cases in AI-generated content"
+    ],
+    "github": "https://github.com/3ileen/Mobile-HealthCare-App",
+    "demo": "https://github.com/3ileen/Mobile-HealthCare-App",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/challenge_photos/004/070/108/datas/full_width.png"
+  },
+  {
+    "id": "bracelet-studio",
+    "title": "Bracelet Studio",
+    "category": "Game Jam",
+    "description": "Game where you can build your own bracelet",
+    "longDescription": "Created for girly game jam, this game allows players to design and customize their own bracelets using a variety of beads.",
+    "tech": ["Godot", "GDScript", "Aseprite"],
+    "learned": [
+      "Saving states and player progress",
+      "Implementing a drag-and-drop interface",
+      "Creating a simple inventory system",
+      "Designing a user-friendly UI for customization"
+    ],
+    "challenges": [
+      "Ensuring smooth drag-and-drop mechanics",
+      "Managing game state persistence across sessions",
+      "Balancing customization options with simplicity"
+    ],
+    "github": "https://github.com/jphants/bracelet-shop",
+    "demo": "https://jphants.itch.io/bracelet-studio",
+    "image": "https://img.itch.zone/aW1nLzI2MDkzMjI1LnBuZw==/315x250%23c/wLBbT%2B.png"
+  },
+  {
+    "id": "anemia-recovery",
+    "title": "AnemiaGuard",
+    "category": "Hackathon",
+    "description": "Offline-first mobile app for anemia risk estimation using ML, computer vision, and clinical data.",
+    "longDescription": "Developed during Frostbyte hackathon, AnemiaRecovery is a mobile application designed to help individuals at risk of anemia. The app uses machine learning models trained on clinical data and computer vision techniques to analyze images of the user's fingernails for signs of anemia. It provides personalized recommendations for dietary changes and supplements, along with an offline-first design to ensure accessibility in low-connectivity areas.",
+    "tech": ["AndroidStudio", "TensorFlow Lite", "React"],
+    "learned": [
+      "Training and deploying ML models on mobile devices",
+      "Implementing computer vision algorithms for health diagnostics",
+      "Designing for offline-first user experiences",
+      "Navigating healthcare data privacy and security considerations"
+    ],
+    "challenges": [
+      "Optimizing ML model performance on resource-constrained devices",
+      "Ensuring accurate and reliable diagnostics with limited data",
+      "Designing an intuitive UI for health-related applications"
+    ],
+    "github": "https://github.com/jphants/FrostbyteProject",
+    "image": "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/004/323/942/datas/medium.png"
+  }
+]
