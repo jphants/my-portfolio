@@ -7,7 +7,7 @@ import { ProjectDetail } from "./pages/ProjectDetail";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/my-portfolio">
       <div className="min-h-screen flex flex-col">
         <Navbar />
         <main className="flex-1">
